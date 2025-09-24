@@ -24,3 +24,4 @@ function atualizarLista() {
     lista.appendChild(li);
   });
 }
+
